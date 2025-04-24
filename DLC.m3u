@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,DLC 4
+https://www.example.com/video4.mp4
+#EXTINF:-1,DLC 2
+https://www.example.com/video2.mp4
+#EXTINF:-1,DLC 6
+https://www.example.com/video6.mp4
+#EXTINF:-1,DLC 3
+https://www.example.com/video3.mp4
+#EXTINF:-1,DLC
+https://www.example.com/video1.mp4
+#EXTINF:-1,DLC 5
+https://www.example.com/video5.mp4
